@@ -1,4 +1,4 @@
--- % induction matrix
+-- Induction Matrix, viewer, controller (IMVC)
 -- programme réalisé par redsarow
 -- nommer ce fichier autorun.lua pour un lancement automatique au démarage de l'ordi
 
